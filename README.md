@@ -9,7 +9,7 @@
 **2026年度 ゼミ論プロジェクト**  
 **著者：加藤　麗杏羅**
 
-> © FuruhashiLaboratory / 加藤　麗杏羅, CC BY 4.0
+> © FuruhashiLaboratory / 加藤麗杏羅, CC BY 4.0
 
 ---
 
