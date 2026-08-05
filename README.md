@@ -64,3 +64,14 @@
 * 現在の情報提供にはどのような課題があるか。
 * WebGISによる情報の一元化は、初心者の事前準備にどのように役立つ可能性があるか。
 * 今後、より実用的なWebGISとするために必要な情報や機能について検討する。
+
+## 参考文献
+
+1. 内閣府. 『令和7年交通安全白書 第2編 海上交通 第5節 小型船舶の安全対策の充実』.
+   https://www8.cao.go.jp/koutu/taisaku/r07kou_haku/zenbun/genkyo/h2/h2s2_5.html
+
+2. 海上保安庁. 『横浜港港則法適用区域図・港則法関係資料』.
+   https://www.kaiho.mlit.go.jp/
+
+3. 海上保安庁. 『航行安全情報（MICS・航行警報等）』.
+   https://www6.kaiho.mlit.go.jp/
